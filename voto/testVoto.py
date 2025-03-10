@@ -1,4 +1,4 @@
-from voto import Voto, Libretto
+from voto.voto import Voto, Libretto
 
 v1 = Voto("Trasfigurazione", 24, "2022-02-13", False)
 v2 = Voto("Pozioni", 30, "2022-02-17", True)

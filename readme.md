@@ -4,7 +4,8 @@ _Obiettivo: ripasso sulle liste e sulla gestione di oggetti e riferimenti._
 
 Si realizzi un programma per la gestione semplificata dei voti della carriera universitaria.
 Il programma si basa su una classe `Voto` (nome corso, punteggio ottenuto, data esame) ed una classe `Libretto` (che
-gestisce un elenco di `Voto`). La classe `Libretto` deve avere un metodo `append()` per il caricamento degli esami.
+gestisce un elenco di `Voto`). La classe `Libretto` deve avere un metodo `append()` per il caricamento degli esami, ed 
+un metodo `calcolaMedia()` per calcolare la media dei voti presenti nel libretto.
 
 Implementare le seguenti funzionalità, e sviluppare un programma di test (nel file `test_libretto.py`) che le attivi:
 

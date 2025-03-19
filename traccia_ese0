@@ -27,14 +27,20 @@ Il libretto conterrà le seguenti informazioni:
 - il libretto dovrà anche restituire informazioni aggregate sugli esami svolti, come la media
 
 
---------------------------------------------------
-# TODO
-- arbitrary arguments, difference between * and **
-- split people in houses, and build the class School
-- class voto and libretto
-- method to compute media
 
-- dataclasses
-- put classes in modules voto and school
-- main in modules
-- put modules in package
+
+Materie
+
+Trasfigurazione
+Incantesimi
+Pozioni
+Storia della Magia
+Difesa contro le Arti Oscure
+Astronomia
+Erbologia
+Volo
+Aritmanzia
+Babbanologia
+Divinazione
+Antiche Rune
+Cura delle Creature Magiche
